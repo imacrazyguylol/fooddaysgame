@@ -23,6 +23,23 @@
       "react-app/jest"
     ]
   },
+  "description": "Food Days Game",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "Food",
+    "Days",
+    "Game"
+  ],
+  "author": "Liam Rowell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
   "browserslist": {
     "production": [
       ">0.2%",
